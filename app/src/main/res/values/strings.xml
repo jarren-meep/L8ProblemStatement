@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L8ProblemStatement</string>
+    <string-array name="array">
+        <item>North</item>
+        <item>Central</item>
+        <item>South</item>
+    </string-array>
+</resources>
